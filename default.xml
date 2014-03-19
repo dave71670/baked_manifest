@@ -39,6 +39,8 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" revision="cm-11.0" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" revision="cm-11.0" groups="device" />
+  <project path="device/lge/e980" name="CyanogenMod/android_device_lge_e980" revision="cm-11.0" />
+  <project path="device/lge/gproj-common" name="CyanogenMod/android_device_gproj-common" revision="cm-11.0" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" revision="cm-11.0" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" revision="cm-11.0" groups="pdk" />
@@ -458,6 +460,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="vendor/baked" name="TeamBAKED/vendor_baked" />
+  <project path="vendor/lge" name="TeamBAKED/vendor_lge" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/vendor_tmobile_apps_ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/vendor_tmobile_providers_ThemeManager" />
